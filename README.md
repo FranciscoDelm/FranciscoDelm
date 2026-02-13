@@ -32,8 +32,6 @@
 
 ###
 
-![FranciscoDelm GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoDelm&show_icons=true&theme=dracula&include_all_comits=true&locale=pt-br)
-
 ###
 
 <h3 align="left">Minhas redes sociais</h3>
